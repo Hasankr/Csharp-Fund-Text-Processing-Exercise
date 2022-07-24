@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Valid Usernames", "01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Character Multiplier", "02. Character Multiplier\02. Character Multiplier.csproj", "{8FBA515F-D09E-4506-9CA9-39E8F1445C67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Caesar Cipher", "04. Caesar Cipher\04. Caesar Cipher.csproj", "{0DFBE4A9-069A-4511-A768-5BF9A3CBDCBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8FBA515F-D09E-4506-9CA9-39E8F1445C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FBA515F-D09E-4506-9CA9-39E8F1445C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FBA515F-D09E-4506-9CA9-39E8F1445C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFBE4A9-069A-4511-A768-5BF9A3CBDCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFBE4A9-069A-4511-A768-5BF9A3CBDCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFBE4A9-069A-4511-A768-5BF9A3CBDCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFBE4A9-069A-4511-A768-5BF9A3CBDCBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
